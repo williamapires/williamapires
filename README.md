@@ -1,4 +1,4 @@
-# Olá, eu sou o William Pires! 👋
+# Olá, meu nome é William A. Pires! 👋
 
 <div align="center">
   Estudante de Administração 🎓 migrando para Análise de Dados 📊
