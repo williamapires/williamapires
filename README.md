@@ -1,4 +1,4 @@
-# Olá, meu nome é William A. Pires! 👋
+[# Olá, meu nome é William A. Pires! 👋
 
 <div align="center">
   Estudante de Administração 🎓 migrando para Análise de Dados 📊
@@ -52,3 +52,4 @@ Sou um entusiasta de tecnologia focado em resolver problemas de negócios. Com b
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
+](https://github.com/williamapires/dio-lab-open-source)
